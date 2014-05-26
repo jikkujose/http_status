@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-HTTPStatus::Ok # gives 200
+    HTTPStatus::Ok # gives 200
 
 ## Contributing
 
