@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["jikkujose@gmail.com"]
   spec.summary       = %q{Simple gem to access HTTP statuses}
   spec.description   = %q{Simple gem to access HTTP statuses}
-  spec.homepage      = ""
+  spec.homepage      = "http://github.com/JikkuJose/http_status/"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
